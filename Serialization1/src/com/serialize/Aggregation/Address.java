@@ -8,5 +8,6 @@ public class Address {
 		this.addressLine = addressLine;
 		this.city = city;
 		this.state = state;
+		// bug fix added
 	}
 }
